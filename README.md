@@ -91,6 +91,7 @@ After this, all the required packages are now installed. All that needs to be do
         3. Note: py keyword might be python or python3 depending on your configuration.
         
 # Tested On
+This was tested on the latest versions of VS code (1.77), Python (3.11), Node JS (18.16.0), Google Chrome (112.0.5615.49), Opera GX (95.0.4635.74) and Windows 10 Home Single Language (Version: 21H2).
 
 # Video Demonstration
 The link below provides the video demonstration of the website:
