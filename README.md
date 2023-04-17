@@ -71,7 +71,7 @@ If you have all of them installed, skip these installation steps below. If not, 
 Once everything is installed, create a folder and unzip the project files inside it.
 
 # Requirements
-For this website to work, all of the required packages are already saved in a file. The javascript packages are saved on the packages.json file found inside the ui folder while the requirements.txt, which contains the packages for python, will be found on the backend folder of the project folder. To install these packages, go to VS Code, open the project folder which should be Final_Project_CPG2, and then run two terminals.
+For this website to work, all of the required packages are already saved in a file. The javascript packages are saved on the package.json file found inside the ui folder while the requirements.txt, which contains the packages for python, will be found on the backend folder of the project folder. To install these packages, go to VS Code, open the project folder which should be Final_Project_CPG2, and then run two terminals.
 
     For the javascript packages:
         1. Type in one of the terminals: cd ui
