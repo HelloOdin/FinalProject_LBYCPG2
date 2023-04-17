@@ -1,7 +1,12 @@
 # LBYCPG2_FinalProject
 This project was created by Shan Pleños and Francisco Armintia.
 
-// INSERT PROJECT OVERVIEW HERE
+# Overview
+
+# Getting Started
+
+Go to this website and download the project file (Final_Project_CPG2) that is zipped: 
+https://drive.google.com/drive/folders/1zeC2VXZK38kqyX8CafKkXJWdHDO00ORW?usp=share_link
 
 NOTE! Before running the project, make sure that "Node.js", "Python", and "VSCode" are installed in your local device. In order to check if you have them installed in your local device, follow these steps:
 
@@ -59,4 +64,32 @@ If you have all of them installed, skip these installation steps below. If not, 
         11. Check if "VSCode" has been successfully installed in your local device by following the verification steps above.
 
 Once everything is installed, create a folder and unzip the project files inside it.
+
+# Requirements
+For this website to work, all of the required packages are already saved in a file. The javascript packages are saved on the packages.json file found inside the ui folder while the requirements.txt, which contains the packages for python, will be found on the backend folder of the project folder. To install these packages, go to VS Code, open the project folder which should be Final_Project_CPG2, and then run two terminals.
+
+    For the javascript packages:
+        1. Type in one of the terminals: cd ui
+        2. After, type npm install package.json
+    
+    For the python packages:
+        1. Type in the other terminal: cd backend
+        2. After, type pip install -r requirements.txt
+
+After this, all the required packages are now installed. All that needs to be done is to run the code. For that we need to type the following:
+    
+    On the ui terminal:
+        1. Type: npm start
+    
+    On the backend terminal:
+        2. Type: py manage.py runserver
+        3. Note: py keyword might be python or python3 depending on your configuration.
+        
+# Tested On
+
+# Video Demonstration
+The link below provides the video demonstration of the website:
+https://drive.google.com/file/d/1dfcx2W5PX1o9rj_rg1bpYFC96A5ZZ4Cq/view?usp=sharing
+
+
 
