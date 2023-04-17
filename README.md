@@ -2,6 +2,11 @@
 This project was created by Shan Pleños and Francisco Armintia.
 
 # Overview
+As college students, we recognized that many of our peers struggle to find the time and resources to prepare healthy and satisfying meals. We saw an opportunity to create a website that would provide a collection of easy-to-make recipes specifically tailored to the needs of college students.
+
+By curating a selection of recipes that require minimal ingredients, prep time, and cooking skills, we aimed to empower our peers to cook for themselves and take control of their health and wellness. The search bar, category sorting, and popular recipe space were added to make the user experience as efficient and enjoyable as possible.
+
+Our goal was to create a go-to resource for college students who want to eat well without sacrificing too much time, effort, or money. The website is a testament to our commitment to helping others and promoting a healthy and sustainable lifestyle among your peers.
 
 # Getting Started
 
